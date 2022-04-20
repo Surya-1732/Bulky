@@ -5,6 +5,7 @@ replace the connection string in from.cs under button_2 class.(saved in app.conf
 create your own model with coloumns(i have student_id,age...)in the class and replece all table names with your own;
 define excel with same coloumn names in the table which is in sql-server.
 if your having reference errors ;install from nuget_pacages (which are in pacage folder).
+***select your sheeet after selecting your excel file**********
 
 
 
