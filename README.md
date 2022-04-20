@@ -1,4 +1,4 @@
-# Bulky/Tool to import the bulk data from excel sheet  to SQL server/windows Forms(C# Application)
+# Bulky/Tool to import the bulk data from excel sheet  to SQL server(windows Forms(C# Application))
 click on grid view in the form design where you can see button to conncet to your db;and in the check box check the  required table to send the data in the server.
 check the save connection string optioin.
 replace the connection string in from.cs under button_2 class.(saved in app.config)
